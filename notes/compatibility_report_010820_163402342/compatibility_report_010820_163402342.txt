@@ -1,0 +1,362 @@
+!!! Font font_Fix uses a font (Fixedsys Excelsior 3.01) not installed on this system - Font has NOT been regenerated
+GameMaker Studio 1 font texture has been backed up at ${project_dir}/fonts/font_Fix/font_Fix.gms1.png
+Converting GML script: ${project_dir}/objects/Asteroid/Step_2.gml
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}/objects/fpController/Step_0.gml
+Converted builtin - line 6: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 6: view_wview -> __view_get( e__VW.WView, 0 )
+
+Converting GML script: ${project_dir}/objects/Smash/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/Dasher/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/Dasher/Step_0.gml
+Converted string - line 89: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}/objects/Dasher2/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/Dasher2/Step_0.gml
+Converted string - line 89: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}/objects/DasherAttack/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/DasherAttack/Step_0.gml
+Converted string - line 73: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}/objects/DasherAttack2/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/DasherAttack2/Step_0.gml
+Converted string - line 52: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}/objects/CollectorStand/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/CollectorStand/Step_0.gml
+Converted string - line 89: 'X' -> "X"
+Converted string - line 119: 'X' -> "X"
+
+Converting GML script: ${project_dir}/objects/CollectorStand2/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/CollectorStand2/Step_0.gml
+Converted string - line 89: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}/objects/CollectorFly/Create_0.gml
+Converted description /// @description Initialize Variables
+
+Converting GML script: ${project_dir}/objects/CollectorFly/Step_0.gml
+Converted string - line 94: 'X' -> "X"
+Converted string - line 124: 'X' -> "X"
+
+Converting GML script: ${project_dir}/objects/CollectorFly2/Create_0.gml
+Converted description /// @description Initialize Variables
+
+Converting GML script: ${project_dir}/objects/CollectorFly2/Step_0.gml
+Converted string - line 94: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}/objects/SmashShooter/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting object event to GML script: ${project_dir}/objects/SmashShooter/Collision_af0227c2-3e4a-409d-8e5c-b2d20ae48772.gml
+Skipped action 5 as it applies to <undefined>
+Skipped action 6 as it applies to <undefined>
+Skipped action 7 as it applies to <undefined>
+
+Converting object event to GML script: ${project_dir}/objects/SmashShooter/Collision_9e8fd5dd-5e1d-4921-8312-a8df88dd154e.gml
+Skipped action 5 as it applies to <undefined>
+Skipped action 6 as it applies to <undefined>
+Skipped action 7 as it applies to <undefined>
+
+Converting GML script: ${project_dir}/objects/SmashSword/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/SmashSword2/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/Bash/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/Ava/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/SmashsDadF/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/SmashsDad_2F/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/SmashsDad/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/SmashsDad_2/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/SmashsMom/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/SmashsMomF/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/SmashsMom2/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/SmashsMom2F/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/BashFlyingKickBlinking/Create_0.gml
+Converted description /// @description Initialize Variables
+
+Converting GML script: ${project_dir}/objects/BashFlyingKickBlinking/Step_0.gml
+Converted string - line 89: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}/objects/BashFlyingKickBlinking2/Create_0.gml
+Converted description /// @description Initialize Variables
+
+Converting GML script: ${project_dir}/objects/BashFlyingKickBlinking2/Step_0.gml
+Converted string - line 89: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}/objects/BashKickBlinking/Create_0.gml
+Converted description /// @description Initialize Variables
+
+Converting GML script: ${project_dir}/objects/BashKickBlinking/Step_0.gml
+Converted string - line 126: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}/objects/BashKickBlinking2/Create_0.gml
+Converted description /// @description Initialize Variables
+
+Converting GML script: ${project_dir}/objects/BashKickBlinking2/Step_0.gml
+Converted string - line 126: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}/objects/BashPunchBlinking/Create_0.gml
+Converted description /// @description Initialize Variables
+
+Converting GML script: ${project_dir}/objects/BashPunchBlinking2/Create_0.gml
+Converted description /// @description Initialize Variables
+
+Converting GML script: ${project_dir}/objects/BashStandBlinking/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/BashStandBlinking/Step_0.gml
+Converted string - line 146: 'Z' -> "Z"
+
+Converting object event to GML script: ${project_dir}/objects/BashStandBlinking/Other_0.gml
+Skipped action 6 as it applies to <undefined>
+Skipped action 7 as it applies to <undefined>
+
+Converting GML script: ${project_dir}/objects/BashStandBlinking2/Create_0.gml
+Converted builtin - line 14: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+Converted description /// @description Initialize Variables
+
+Converting GML script: ${project_dir}/objects/BashStandBlinking2/Step_0.gml
+Converted string - line 146: 'Z' -> "Z"
+
+Converting object event to GML script: ${project_dir}/objects/BashStandBlinking2/Other_0.gml
+Skipped action 6 as it applies to <undefined>
+Skipped action 7 as it applies to <undefined>
+
+Converting GML script: ${project_dir}/objects/AvaTwirlKickBlinking/Step_0.gml
+Converted string - line 53: 'X' -> "X"
+Converted string - line 79: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}/objects/AvaKickBlinking/Step_0.gml
+Converted string - line 53: 'X' -> "X"
+Converted string - line 79: 'Z' -> "Z"
+Converted string - line 126: 'X' -> "X"
+Converted string - line 152: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}/objects/AvaKickBlinking2/Step_0.gml
+Converted string - line 53: 'X' -> "X"
+Converted string - line 79: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}/objects/AvaCartwheelTechniqueBlinking/Step_0.gml
+Converted string - line 70: 'X' -> "X"
+Converted string - line 141: 'Z' -> "Z"
+Converted string - line 142: 'Z' -> "Z"
+
+Converting GML script: ${project_dir}/objects/AvaBlinking/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/AvaBlinking/Step_0.gml
+Converted string - line 106: 'X' -> "X"
+Converted string - line 107: 'X' -> "X"
+Converted string - line 124: 'Z' -> "Z"
+Converted string - line 125: 'Z' -> "Z"
+
+Converting object event to GML script: ${project_dir}/objects/AvaBlinking/KeyPress_40.gml
+Skipped action 2 as it applies to <undefined>
+
+Converting GML script: ${project_dir}/objects/BashStandTT/Create_0.gml
+Converted description /// @description Initialize Variables
+
+Converting GML script: ${project_dir}/objects/BashStandTT/KeyPress_79.gml
+Converted description /// @description Initialize Variables
+
+Converting GML script: ${project_dir}/objects/SmashStandTT/Create_0.gml
+Converted description /// @description Initialize Variables
+
+Converting GML script: ${project_dir}/objects/fade_dead/Draw_0.gml
+Converted builtin - line 17: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 19: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 20: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 20: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}/objects/Health_Score_Lives/Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 7: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 7: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}/objects/Health_Score_Lives_2/Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 2: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 3: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 2: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 3: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}/objects/PARENT/Create_0.gml
+Converted builtin - line 1: view_object[0]=id -> __view_set( e__VW.Object, 0, id )
+
+Converting GML script: ${project_dir}/objects/BashHealth/Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}/objects/countdown/Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}/objects/Countdown_2/Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}/objects/Countdown_3/Draw_0.gml
+Converted builtin - line 1: view_xview -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 1: view_yview -> __view_get( e__VW.YView, 0 )
+
+Converting GML script: ${project_dir}/objects/obj_fade/Draw_0.gml
+Converted builtin - line 17: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 19: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 18: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 20: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 19: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 20: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Converting GML script: ${project_dir}/objects/obj_fade2/Draw_0.gml
+Converted builtin - line 19: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 21: view_xview[0] -> __view_get( e__VW.XView, 0 )
+Converted builtin - line 20: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 22: view_yview[0] -> __view_get( e__VW.YView, 0 )
+Converted builtin - line 21: view_wview[0] -> __view_get( e__VW.WView, 0 )
+Converted builtin - line 22: view_hview[0] -> __view_get( e__VW.HView, 0 )
+
+Windows NSIS Installer Script has been set to default due to changes in GameMaker Studio 2
+Missing audiogroup for sound: 'Title' - setting to default audio group
+Missing audiogroup for sound: 'Pro' - setting to default audio group
+Missing audiogroup for sound: 'Stage1' - setting to default audio group
+Missing audiogroup for sound: 'Stage2' - setting to default audio group
+Missing audiogroup for sound: 'Stage3' - setting to default audio group
+Missing audiogroup for sound: 'Stage4' - setting to default audio group
+Missing audiogroup for sound: 'Pro2' - setting to default audio group
+Missing audiogroup for sound: 'Stage5' - setting to default audio group
+Missing audiogroup for sound: 'Boss' - setting to default audio group
+Missing audiogroup for sound: 'FBoss2' - setting to default audio group
+Missing audiogroup for sound: 'FBoss3' - setting to default audio group
+Missing audiogroup for sound: 'Evacuation' - setting to default audio group
+Missing audiogroup for sound: 'Boss_Bash__Dasher__Ava_' - setting to default audio group
+Missing audiogroup for sound: 'Invasion1' - setting to default audio group
+Missing audiogroup for sound: 'Dr_Glitcher_sCastleDX' - setting to default audio group
+Missing audiogroup for sound: 'ClimbingCatastrophy' - setting to default audio group
+Missing audiogroup for sound: 'TagTeam1' - setting to default audio group
+Missing audiogroup for sound: 'RockStageP1and2' - setting to default audio group
+Missing audiogroup for sound: 'Dr_GlitchersUltimateCastle' - setting to default audio group
+Missing audiogroup for sound: 'Hoseki' - setting to default audio group
+Missing audiogroup for sound: 'FinalBossPhase1to8' - setting to default audio group
+Missing audiogroup for sound: 'FinalBossPhase9and10' - setting to default audio group
+Missing audiogroup for sound: 'AvaSaved' - setting to default audio group
+Missing audiogroup for sound: 'BeforeBoss' - setting to default audio group
+Missing audiogroup for sound: 'AfterBashAndBeforeAct4' - setting to default audio group
+Missing audiogroup for sound: 'BeforeFinalBattle' - setting to default audio group
+Missing audiogroup for sound: 'sound_dead' - setting to default audio group
+Missing audiogroup for sound: 'LifePickup' - setting to default audio group
+Missing audiogroup for sound: 'Transition' - setting to default audio group
+Missing audiogroup for sound: 'ParentalGuidance_Dr_GlitcherBossFight3' - setting to default audio group
+Missing audiogroup for sound: 'InOurPath' - setting to default audio group
+Missing audiogroup for sound: 'ExplosionSFX' - setting to default audio group
+Missing audiogroup for sound: 'Punch1' - setting to default audio group
+Missing audiogroup for sound: 'Punch2' - setting to default audio group
+Missing audiogroup for sound: 'Punch3' - setting to default audio group
+Missing audiogroup for sound: 'PunchSwoosh' - setting to default audio group
+Missing audiogroup for sound: 'HitDetection' - setting to default audio group
+Missing audiogroup for sound: 'BossExplosion' - setting to default audio group
+Missing audiogroup for sound: 'Choose' - setting to default audio group
+Missing audiogroup for sound: 'Selecting' - setting to default audio group
+Missing audiogroup for sound: 'LaserShot' - setting to default audio group
+Missing audiogroup for sound: 'LaserDetection' - setting to default audio group
+Missing audiogroup for sound: 'SwordSwish' - setting to default audio group
+Game speed set to 50
+Added compatibility script 'action/action_another_room.gml'
+Added compatibility script 'action/action_bounce.gml'
+Added compatibility script 'action/action_change_object.gml'
+Added compatibility script 'action/action_create_object.gml'
+Added compatibility script 'action/action_create_object_motion.gml'
+Added compatibility script 'action/action_current_room.gml'
+Added compatibility script 'action/action_draw_health.gml'
+Added compatibility script 'action/action_draw_life.gml'
+Added compatibility script 'action/action_draw_score.gml'
+Added compatibility script 'action/action_draw_variable.gml'
+Added compatibility script 'action/action_end_game.gml'
+Added compatibility script 'action/action_end_sound.gml'
+Added compatibility script 'action/action_font.gml'
+Added compatibility script 'action/action_if_collision.gml'
+Added compatibility script 'action/action_if_dice.gml'
+Added compatibility script 'action/action_if_empty.gml'
+Added compatibility script 'action/action_if_health.gml'
+Added compatibility script 'action/action_if_life.gml'
+Added compatibility script 'action/action_if_object.gml'
+Added compatibility script 'action/action_if_score.gml'
+Added compatibility script 'action/action_if_variable.gml'
+Added compatibility script 'action/action_kill_object.gml'
+Added compatibility script 'action/action_linear_step.gml'
+Added compatibility script 'action/action_load_game.gml'
+Added compatibility script 'action/action_move.gml'
+Added compatibility script 'action/action_move_contact.gml'
+Added compatibility script 'action/action_move_point.gml'
+Added compatibility script 'action/action_move_random.gml'
+Added compatibility script 'action/action_move_start.gml'
+Added compatibility script 'action/action_move_to.gml'
+Added compatibility script 'action/action_next_room.gml'
+Added compatibility script 'action/action_reverse_xdir.gml'
+Added compatibility script 'action/action_save_game.gml'
+Added compatibility script 'action/action_set_alarm.gml'
+Added compatibility script 'action/action_set_friction.gml'
+Added compatibility script 'action/action_set_gravity.gml'
+Added compatibility script 'action/action_set_health.gml'
+Added compatibility script 'action/action_set_life.gml'
+Added compatibility script 'action/action_set_relative.gml'
+Added compatibility script 'action/action_set_score.gml'
+Added compatibility script 'action/action_set_vspeed.gml'
+Added compatibility script 'action/action_sound.gml'
+Added compatibility script 'action/action_sprite_set.gml'
+Added compatibility script 'action/action_sprite_transform.gml'
+Added compatibility script 'instance/instance_create.gml'
+Added compatibility script 'object/object_get_depth.gml'
+Added compatibility script 'view/__view_get.gml'
+Added compatibility script 'view/__view_set.gml'
+Added compatibility script 'view/__view_set_internal.gml'
+Added compatibility script 'action/__init_action.gml'
+Added compatibility script 'view/__init_view.gml'
+Added compatibility script '__init_global.gml'
+Added compatibility script '__global_object_depths.gml'
